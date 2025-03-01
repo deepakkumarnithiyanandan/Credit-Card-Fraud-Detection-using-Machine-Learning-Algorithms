@@ -1,0 +1,19 @@
+#Batch 1 
+#GNANESH.A         -   PES2UG20CS122
+#B V MURALI SAI   -   PES2UG20CS083
+#DEEPAK KUMAR  -   PES2UG20CS104
+
+
+
+*****TITLE :Credit Card Fraud Detection******
+
+
+The following code is in .ipynb format, to the run the code we can import the code to kaggle(prefered) or googe collab.
+
+After the code is successfully imported then the dataset can be added ***link https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud ***.
+
+
+
+
+
+
